@@ -1,0 +1,14 @@
+# Streamlit and core libraries
+streamlit==1.25.0  # Replace with latest compatible version if needed
+pandas==1.5.3  # Compatible with Python 3.10
+numpy==1.23.5  # Compatible with Python 3.10
+
+# R-Python integration
+rpy2==3.5.1  # Compatible with Python 3.10 and R (make sure R is installed)
+
+# Visualization
+matplotlib==3.6.3  # For rendering ggplot2 plots from R in Python
+seaborn==0.12.1  # Optional, for additional data visualization
+
+# Other utilities (optional)
+scipy==1.9.3  # For any statistical functions
